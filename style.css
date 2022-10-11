@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetia;
+    margin: 0;
+  background-color:#0e0e0e;}
+
+header {
+    padding: 20px;
+    text-align: center;
+    background: white;
+    color: black;
+    font-size: 20px;}
+
+section {
+  background-color:#f7f7f7;
+  margin:0;
+  padding:10px;}
+
+.box	{
+  width: 800px;
+  margin: auto;
+  margin-top: 50px;
+  background-color:white;
+  padding: 0px;
+  border: 1px solid #cdcdcd;}
+
+.header{
+  padding: 15px;
+  font-size: 14px;}
+
+.header h2{margin:0;}
+
+.date	{
+  float: right;
+  margin:0;
+  padding-top:7px;
+  color: #CDCDCD;}
+
+img	{width: 100%;}
+
+.comment{
+  font-size:16px;
+  padding: 3px;}
